@@ -1,6 +1,4 @@
 # C-Sharp-Web-Application-Database
-
-# C-Sharp-Web-Application-Database
 1. Web application to display information about categories, products and their order details stored in the database.
 2. Use ListBox to display the categories. 
 3. When a category is selected, its corresponding products are loaded in the DropDownList. 
