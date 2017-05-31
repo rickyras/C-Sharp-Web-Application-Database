@@ -1,0 +1,66 @@
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\ApplicationInsights.config
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\csc.exe
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\vbc.exe
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\DBConnectedModel.dll.config
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\DBConnectedModel.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\DBConnectedModel.pdb
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.AI.Web.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.AI.Web.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\obj\Debug\DBConnectedModel.csprojResolveAssemblyReference.cache
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\obj\Debug\DBConnectedModel.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel\DBConnectedModel\obj\Debug\DBConnectedModel.pdb
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\ApplicationInsights.config
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\csc.exe
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\vbc.exe
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\DBConnectedModel.dll.config
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\DBConnectedModel.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\DBConnectedModel.pdb
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.AI.Web.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.AI.Web.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\obj\Debug\DBConnectedModel.csprojResolveAssemblyReference.cache
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\obj\Debug\DBConnectedModel.dll
+C:\Users\Ritchie\Desktop\NET\week 9\DBConnectedModel - Copy\DBConnectedModel\obj\Debug\DBConnectedModel.pdb
